@@ -19,10 +19,17 @@ Jie, Y., Li, X., Tan, T., Yang, L., and Wang, M.: ‘Multi-modality image fusion
 
 @article{JIE2025112001,
 title = {Multi-modality image fusion using fuzzy set theory and compensation dictionary learning},
+
 journal = {Optics & Laser Technology},
+
 volume = {181},
+
 pages = {112001},
+
 year = {2025},
+
 issn = {0030-3992},
+
 doi = {https://doi.org/10.1016/j.optlastec.2024.112001},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0030399224014592},
